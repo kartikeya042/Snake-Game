@@ -35,11 +35,9 @@ To run the game locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kartikeya042/snake-game.git
-
+   git clone https://github.com/kartikeya042/Snake-Game.git
 2. Navigate to the project folder:
     ```bash 
     cd snake-game
-
 3. Open `index.html` in your web browser.  
 Or use a [live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in your code editor.
